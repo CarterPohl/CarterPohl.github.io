@@ -1,0 +1,34 @@
+h1{
+	font-size: 70pt;
+}
+h2{
+	font-size: 40pt;
+}
+h3{
+	font-size: 30pt;
+	margin-bottom: 5px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+h4{
+	margin-top: 20.66px;
+	font-size: 20pt;
+}
+h5{
+	margin: 20px;
+	font-size: 20pt;
+}
+td{
+	font-weight: bold;
+	text-align: center;
+	border: solid;
+	border-width: 5px;
+	border-color: white; 
+}
+body{
+    /*background-image: url("logo.png");*/
+	text-align: center;
+}
+fieldset {
+  margin: auto;
+}
